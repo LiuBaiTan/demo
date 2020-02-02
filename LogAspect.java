@@ -11,6 +11,10 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 
 import javax.servlet.http.HttpServletRequest;
 
+/*
+*日志记录，creeatd by liubai
+*/ 
+
 @Aspect
 @Component
 public class LogAspect {
